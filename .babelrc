@@ -9,6 +9,6 @@
                 "corejs": 3
             }
         ],
-        "arithmetic"
+        "arithmetic" // 解决js计算浮点数的精度丢失问题
     ]
 }
